@@ -46,7 +46,7 @@ const About = () => {
             I am a Computer Science graduate and full stack developer with experience in designing, developing, and maintaining web applications. I have a solid understanding of frontend and backend technologies, databases, and RESTful APIs. With hands on experience from academic projects and internships, I focus on writing clean, scalable code and continuously enhancing my technical skills to build efficient, reliable, and high quality software solutions.
           </p>
           {/* Resume button */}
-          <a href="https://drive.google.com/file/d/1jIGj0ajUe0-hbnV2CzmTIFN8fSaF8V1D/view?usp=drive_link" target="_blank" rel="noopener noreferrer"
+          <a href="https://drive.google.com/file/d/10z6f5k9y7Yawmzh3iQcFoqlvhte1lpG0/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"
             className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-semibold transition duration-300 transform hover:scale-105'
             style={{
               background: 'linear-gradient(90deg, #8245ec, #a855f7)',
