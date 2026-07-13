@@ -133,7 +133,7 @@ export const SkillsInfo = [
       img: rgpvLogo,
       school: "Rajiv Gandhi Proudyogiki Vishwavidyalaya",
       date: "September 2023 - July 2026",
-      grade: "7.81 CGPA",
+      grade: "7.85 CGPA",
       desc: "I have completed my B.Tech in Computer Science and Engineering from Kailash Narayan Patidar College of Science and Technology, Bhopal, affiliated with Rajiv Gandhi Proudyogiki Vishwavidyalaya. Alongside my diploma background, the program strengthened my understanding of software development, data structures, algorithms, and web technologies, while enhancing my analytical thinking, problem solving abilities, and practical exposure through academic projects.",
       degree: "Bachelor of Technology - B.Tech",
     },
